@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I'm Hossam!<br><br>I'm a Data Analyst and a 3rd-year Computer Science & Artificial Intelligence student, specializing in Data Science.<br>I’m passionate about exploring datasets, identifying patterns, and transforming raw information into meaningful insights that support smarter decision-making.<br><br><br>---<br><br>🚀 Tools & Technology<br><br>I work with tools and technologies like:<br><br>Excel – data cleaning, analysis, dashboards<br><br>Power BI – data modeling, reports, visualization<br><br>Data Visualization & Storytelling 📊<br><br>Analytical Thinking & Problem Solving<br><br><br><br>---<br><br>🏆 Certifications<br><br>Python Data Fundamentals – DataCamp<br><br>Introduction to Data Science – Cisco<br><br>Getting Started with Artificial Intelligence – IBM<br><br><br>Always open to learning, collaborating, and taking on new challenges in the data field 🤝.<br>
+Hi, I'm Hossam!<br><br>I'm a Data Analyst and a 3rd-year Computer Science & Artificial Intelligence student, specializing in Data Science.<br>I’m passionate about exploring datasets, identifying patterns, and transforming raw information into meaningful insights that support smarter decision-making.<br><br><br>
+---
+<br><br>🚀 Tools & Technology<br><br>I work with tools and technologies like:<br><br>Excel – data cleaning, analysis, dashboards<br><br>Power BI – data modeling, reports, visualization<br><br>Data Visualization & Storytelling 📊<br><br>Analytical Thinking & Problem Solving<br><br><br><br> 
+---
+<br><br>🏆 Certifications<br><br>Python Data Fundamentals – DataCamp<br><br>Introduction to Data Science – Cisco<br><br>Getting Started with Artificial Intelligence – IBM<br><br><br>Always open to learning, collaborating, and taking on new challenges in the data field 🤝.<br>
 
 
 ## 🌐 Socials:
