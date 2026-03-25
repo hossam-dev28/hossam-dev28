@@ -8,21 +8,21 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossamahmed2863@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://hossam-ahmed-portfolio.netlify.app/)
 
-<br><br>
-
-![Animated Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif)
-
 </div>
 
 <br>
 
-## 💫 About Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👨‍💻 About Me:
 
 3rd-year **Data Science** student at **ERU** and **Power BI Engineer Intern** at **DEPI**, with a strong focus on data analytics and business intelligence. <br><br> Experienced in building end-to-end data pipelines—from web scraping with **Python** to advanced visualization with **Power BI**—transforming complex datasets into actionable insights that support data-driven decision-making.
 
 <br>
 
-## 💻 Tech Stack & Expertise:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 Tech Stack:
 
 * **Excel** ➞ Data Cleaning, Analysis, Dashboards
 * **Power BI** ➞ Data Modeling, Reporting, Visualization
@@ -46,6 +46,8 @@
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Stats:
 
 <div align="center">
@@ -58,9 +60,12 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
 <div align="center">
-  <a href="
+  <a href="https://komarev.com/ghpvc/?username=hossam-dev28&label=Profile%20Views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=hossam-dev28&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count">
+  </a>
+</div>
