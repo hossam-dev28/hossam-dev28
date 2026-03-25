@@ -1,24 +1,16 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Hossam+Ahmed+👋;Data+Analyst+|+Data+Science+Student;Turning+Data+into+Insights!" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Hossam+Ahmed;Data+Analyst+%7C+Data+Science+Student;Turning+Data+into+Insights!)](https://git.io/typing-svg)
 
-  <br>
+<br>
 
-  <a href="https://www.linkedin.com/in/hossam-ahmed-bbaa73342/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hossamahmed2863@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://hossam-ahmed-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=netlify&logoColor=white" alt="Portfolio">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-bbaa73342/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossamahmed2863@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=netlify&logoColor=white)](https://hossam-ahmed-portfolio.netlify.app/)
 
-  <br><br>
+<br><br>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" alt="Animated Line" width="100%">
+![Animated Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif)
 
 </div>
 
