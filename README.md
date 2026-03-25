@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Hossam+Ahmed;Data+Analyst+%7C+Data+Science+Student;Turning+Data+into+Insights!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+there,+I%27m+Hossam+Ahmed;Data+Analyst+%7C+Data+Science+Student;Turning+Data+into+Insights!)](https://git.io/typing-svg)
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-bbaa73342/)
