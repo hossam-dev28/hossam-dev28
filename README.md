@@ -1,71 +1,72 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+there,+I%27m+Hossam+👋;Data+Analyst+%7C+BI+Enthusiast;Turning+Data+into+Insights!)](https://git.io/typing-svg)
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-bbaa73342/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossamahmed2863@gmail.com)
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=250&section=header&text=Hossam%20Ahmed&fontSize=60&fontColor=e2e8f0&desc=Data%20Analyst%20%7C%20BI%20Engineer&descSize=20&descAlignY=70&descColor=94a3b8" width="100%" alt="Hossam Ahmed Banner">
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 👨‍💻 About Me:
-
-3rd-year **Data Science** student at **ERU** and **Power BI Engineer Intern** at **DEPI**, with a strong focus on data analytics and business intelligence. <br><br> Experienced in building end-to-end data pipelines—from web scraping with **Python** to advanced visualization with **Power BI**—transforming complex datasets into actionable insights that support data-driven decision-making.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💻 Tech Stack:
-
-* **Excel** ➞ Data Cleaning, Analysis, Dashboards
-* **Power BI** ➞ Data Modeling, Reporting, Visualization
-* **Python** ➞ Data Analysis & Web Scraping
-* **SQL** ➞ Data Querying & Database Management
-
-<br>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38bdf8&center=true&vCenter=true&width=800&lines=Building+Data+Pipelines+with+Python;Designing+Interactive+Power+BI+Dashboards;Transforming+Raw+Data+into+Business+Value" alt="Typing SVG">
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossam-dev28&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=hossam-dev28&theme=dark&hide_border=false" alt="GitHub Streak">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam-dev28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=hossam-dev28&label=Profile%20Views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=hossam-dev28&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count">
+  <a href="https://www.linkedin.com/in/hossam-ahmed-bbaa73342/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:hossamahmed2863@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+<img src="Data Analysis.svg" align="right" width="280">
+Data Analyst and 4th-year Data Science student at the Egyptian Russian University (ERU).
+
+I build end-to-end data pipelines and interactive dashboards using Python, SQL, and Power BI — focused on turning raw data into decisions that actually move the business forward.
+
+Currently deepening my skills in data modeling and DAX through hands-on practice.
+
+<br clear="right">
+
+
+## 🛠 Tech Stack & Tools
+
+<div align="center">
+
+### Data Analysis & BI
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+
+<br><br>
+
+### Programming & Databases
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+<br><br>
+
+### Tools & Environments
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hossam-dev28&theme=dark" alt="GitHub Streak">
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=150&section=footer" width="100%" alt="Footer Banner">
 </div>
