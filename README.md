@@ -22,7 +22,7 @@
 <br>
 
 ## 👨‍💻 About Me
-<img src="Data Analysis.svg" align="right" width="280">
+<img src="./assets/Data Analysis.svg" align="right" width="280">
 Data Analyst and 4th-year Data Science student at the Egyptian Russian University (ERU).
 
 I build end-to-end data pipelines and interactive dashboards using Python, SQL, and Power BI — focused on turning raw data into decisions that actually move the business forward.
