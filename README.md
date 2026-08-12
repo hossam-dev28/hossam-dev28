@@ -22,12 +22,18 @@
 <br>
 
 ## 👨‍💻 About Me
-<img src="./assets/Data Analysis.svg" align="right" width="280">
-Data Analyst and 4th-year Data Science student at the Egyptian Russian University (ERU).
 
-I build end-to-end data pipelines and interactive dashboards using Python, SQL, and Power BI — focused on turning raw data into decisions that actually move the business forward.
+<img src="./assets/Data Analysis.svg" align="right" width="270" alt="Data Analyst at work">
 
-Currently deepening my skills in data modeling and DAX through hands-on practice.
+4th-year Data Science student at the Egyptian Russian University (ERU).
+
+I build end-to-end data pipelines and interactive dashboards using **Python**, **SQL**, and **Power BI**.
+
+My focus is on turning raw data into decisions that actually move the business forward.
+
+<br>
+
+> Most of my learning happens by building — I pick a real question, hunt down the data, and take it all the way to a dashboard someone can actually use.
 
 <br clear="right">
 
