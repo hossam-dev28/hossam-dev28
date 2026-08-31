@@ -11,14 +11,8 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hossam-ahmed-bbaa73342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hossamahmed2863@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <a href="https://www.linkedin.com/in/hossam-ahmed-bbaa73342/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:hossamahmed2863@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=hossam-dev28&label=Profile+Views&color=38bdf8&style=for-the-badge" height="28" alt="Profile Views">
 </div>
-
 <br>
 
 ## 👨‍💻 About Me
